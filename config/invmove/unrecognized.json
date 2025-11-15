@@ -1,0 +1,11 @@
+{
+  "allowMovement": {
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "fi.dy.masa.litematica.gui.GuiRenderLayer": true,
+    "fi.dy.masa.malilib.MaLiLibConfigGui": true
+  },
+  "hideBackground": {}
+}
